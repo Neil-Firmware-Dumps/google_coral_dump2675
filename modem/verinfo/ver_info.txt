@@ -1,0 +1,19 @@
+{
+    "Image_Build_IDs": {
+        "aop": "AOP.HO.1.1-00231-SM8150AAAAANAZO-1", 
+        "apps": "LA.UM.9.1.c11-24300-SMxxx0.QSSI13.0-1", 
+        "apps_qssi": "LA.QSSI.13.0.r1-00500-qssi.0-1", 
+        "boot": "BOOT.XF.3.0.c4-00001-SM8150LZB-2", 
+        "common": "SM8150.LA.2.0.1.c9.3-00005-STD.PROD-1", 
+        "glue": "GLUE.SM8150_LA.2.0.1-00025-NOOP_TEST-1", 
+        "modem": "MPSS.HE.1.0.c12-00123-SM8150_GENP_PACK-1.465896.11.487985.4", 
+        "tz": "TZ.XF.5.2-00267-SM8150AAAAANAZT-2", 
+        "tz_apps": "TZ.APPS.2.0-00215-SM8150AAAAANAZT-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SM8150.LA.2.0.1.c9.3-00005-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2022-07-08 07:30:03"
+    }, 
+    "Version": "1.0"
+}
